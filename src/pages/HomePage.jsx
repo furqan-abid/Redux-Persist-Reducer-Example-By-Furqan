@@ -1,13 +1,12 @@
-import React from 'react'
-import UserComponent from '../components/UserComponent'
-
+import React from "react";
+import UserComponent from "../components/UserComponent";
 
 const HomePage = () => {
   return (
     <>
-        <UserComponent/>
+      <UserComponent />
     </>
-  )
-}
+  );
+};
 
-export default HomePage
+export default HomePage;
